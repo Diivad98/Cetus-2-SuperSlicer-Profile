@@ -15,6 +15,7 @@ By following these steps, you should be able to successfully update your Cetus2 
 
 ____________________________
 
+
 This profile is designed for PLA filament. To adjust the temperature of the nozzle, you need to modify the printer settings under "Custom Gcode" and then "Start Gcode". You can change the temperature using the following commands:
 
 M104 T0 S<Temp> (for Extruder 1)
@@ -25,6 +26,7 @@ Note that "T0" refers to Extruder 0, while "T1" refers to Extruder 1.
 
 
 ________________________________________
+
 
 **How to import custom profiles**
 ![grafik](https://user-images.githubusercontent.com/130768164/232084755-f50b311d-db0b-4765-9f3a-679c46bb0651.png)
