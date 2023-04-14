@@ -24,7 +24,6 @@ This profile is designed for PLA filament. To adjust the temperature of the nozz
 M104 T0 S<Temp> (for Extruder 1)
 M104 T1 S<Temp> (for Extruder 2)
 
-Note that "T0" refers to Extruder 0, while "T1" refers to Extruder 1.
 ![grafik](https://user-images.githubusercontent.com/130768164/232096509-931cbc64-231b-4f8a-b72a-604a073f1b5d.png)
 
 
