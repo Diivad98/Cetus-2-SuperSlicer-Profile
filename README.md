@@ -4,12 +4,15 @@ Cetus2 Firmware 1038-2 is installed
 
 To update your Cetus2 firmware to version 1038-2, follow these instructions:
 
-Extract the Cetus2-Firmware-1038-2.zip files.
-Copy all of the extracted files onto an empty SD card.
-Insert the SD card into the printer.
-On the printer, go to "Information" and select "Update".
-During the second part of the update, the printer will beep frequently - this is normal.
-IMPORTANT: Do not power off the printer during the update process.
+    Ensure that you have Cetus2 Firmware 1038-2 installed.
+    Extract the Cetus2-Firmware-1038-2.zip files.
+    Copy all of the extracted files onto an empty SD card.
+    Insert the SD card into the printer.
+    On the printer, go to "Information" and select "Update".
+    During the second part of the update, the printer will beep frequently - this is normal.
+    IMPORTANT: Do not power off the printer during the update process.
+
+Once the update is complete, your Cetus2 firmware will be running on version 1038-2.
 
 By following these steps, you should be able to successfully update your Cetus2 firmware to version 1038-2.
 
